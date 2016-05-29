@@ -1,0 +1,51 @@
+<def name="MarioKart">
+	<element name="spawnpoint" friendlyname="Spawnpoint" icon="edf/spawn.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<data name="vehicle" type="vehicleID" default="471" />
+		<vehicle model="!vehicle!" rotation="!rotation!"/>
+	</element>
+	
+	<element name="respawnpoint" friendlyname="Respawnpoint" icon="edf/respawn.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="arrow" color="#00FF00FF" editorOnly="true"/>
+	</element>
+	
+	<element name="itemspawnpoint" friendlyname="Item Spawnpoint" icon="edf/item.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="moveOnXAxis" type="number" required="true" default="0.00"/>
+		<data name="moveOnYAxis" type="number" required="true" default="0.00"/>
+		<data name="moveOnZAxis" type="number" required="true" default="0.00"/>
+		<marker position="0,0,0" type="cylinder" color="#FF0000FF" editorOnly="true"/>
+	</element>
+	
+	<element name="coinspawnpoint" friendlyname="Coin Spawnpoint" icon="edf/coin.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="cylinder" color="#FFFF00FF" editorOnly="true"/>
+	</element>
+	
+	<element name="finish" friendlyname="Start / Finish" icon="edf/finish.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="checkpoint" color="#FFFFFFFF" editorOnly="true"/>
+	</element>
+	
+	<element name="checkpoint" friendlyname="Checkpoint" icon="edf/checkpoint.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="checkpoint" color="#FF00FFFF" editorOnly="true"/>
+	</element>
+	
+	<element name="boostfield" friendlyname="Boostfield" icon="edf/boost.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="checkpoint" color="#33AAFFFF" editorOnly="true"/>
+	</element>
+	
+	<element name="respawnArea" friendlyname="Respawn Area" icon="edf/lava.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<marker position="0,0,0" type="cylinder" color="#FF8000FF" size="5" editorOnly="true"/>
+	</element>
+</def>

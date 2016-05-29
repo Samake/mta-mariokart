@@ -1,0 +1,14 @@
+<meta>
+	<info name ="MarioKartEditor" description="Mario Kart Editor Plugin" version="v1" type="script" author="Sam@ke" edf:definition="edf/MarioKart.edf"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+	<!-- textures  -->
+	<file src="edf/spawn.png" type="client" cache="false"/>
+	<file src="edf/respawn.png" type="client" cache="false"/>
+	<file src="edf/item.png" type="client" cache="false"/>
+	<file src="edf/coin.png" type="client" cache="false"/>
+	<file src="edf/checkpoint.png" type="client" cache="false"/>
+	<file src="edf/finish.png" type="client" cache="false"/>
+	<file src="edf/boost.png" type="client" cache="false"/>
+	<file src="edf/lava.png" type="client" cache="false"/>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<info name ="03_1_YoshiCascadeMapModeler" description="03_1_YoshiCascadeMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/yoshi.txd" type="client"/>
+	<file src="models/yoshi1.dff" type="client"/>
+	<file src="models/yoshi1.col" type="client"/>
+</meta>

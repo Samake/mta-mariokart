@@ -1,0 +1,33 @@
+<meta>
+	<info name ="01_2_DiddyMapModeler" description="01_2_DiddyMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/diddy.txd" type="client"/>
+	<file src="models/diddy1.dff" type="client"/>
+	<file src="models/diddy1.col" type="client"/>
+	<file src="models/diddy2.dff" type="client"/>
+	<file src="models/diddy2.col" type="client"/>
+	<file src="models/diddy3.dff" type="client"/>
+	<file src="models/diddy3.col" type="client"/>
+	<file src="models/diddy4.dff" type="client"/>
+	<file src="models/diddy4.col" type="client"/>
+	<file src="models/diddy5.dff" type="client"/>
+	<file src="models/diddy5.col" type="client"/>
+	<file src="models/diddy6.dff" type="client"/>
+	<file src="models/diddy6.col" type="client"/>
+	<file src="models/diddy7.dff" type="client"/>
+	<file src="models/diddy7.col" type="client"/>
+	<file src="models/diddy8.dff" type="client"/>
+	<file src="models/diddy8.col" type="client"/>
+	<file src="models/diddy9.dff" type="client"/>
+	<file src="models/diddy9.col" type="client"/>
+	<file src="models/diddy10.dff" type="client"/>
+	<file src="models/diddy10.col" type="client"/>
+	<file src="models/diddy11.dff" type="client"/>
+	<file src="models/diddy11.col" type="client"/>
+</meta>

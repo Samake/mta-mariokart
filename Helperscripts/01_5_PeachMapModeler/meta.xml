@@ -1,0 +1,33 @@
+<meta>
+	<info name ="01_5_PeachMapModeler" description="01_5_PeachMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/peach.txd" type="client"/>
+	<file src="models/peach1.dff" type="client"/>
+	<file src="models/peach1.col" type="client"/>
+	<file src="models/peach2.dff" type="client"/>
+	<file src="models/peach2.col" type="client"/>
+	<file src="models/peach3.dff" type="client"/>
+	<file src="models/peach3.col" type="client"/>
+	<file src="models/peach4.dff" type="client"/>
+	<file src="models/peach4.col" type="client"/>
+	<file src="models/peach5.dff" type="client"/>
+	<file src="models/peach5.col" type="client"/>
+	<file src="models/peach6.dff" type="client"/>
+	<file src="models/peach6.col" type="client"/>
+	<file src="models/peach7.dff" type="client"/>
+	<file src="models/peach7.col" type="client"/>
+	<file src="models/peach8.dff" type="client"/>
+	<file src="models/peach8.col" type="client"/>
+	<file src="models/peach9.dff" type="client"/>
+	<file src="models/peach9.col" type="client"/>
+	<file src="models/peach10.dff" type="client"/>
+	<file src="models/peach10.col" type="client"/>
+	<file src="models/peach11.dff" type="client"/>
+	<file src="models/peach11.col" type="client"/>
+</meta>

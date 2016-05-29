@@ -1,0 +1,32 @@
+<meta>
+	<info name ="01_6_KoopaMapModeler" description="01_6_KoopaMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/koopa.txd" type="client"/>
+	<file src="models/koopa1.dff" type="client"/>
+	<file src="models/koopa1.col" type="client"/>
+	<file src="models/koopa2.dff" type="client"/>
+	<file src="models/koopa2.col" type="client"/>
+	<file src="models/koopa3.dff" type="client"/>
+	<file src="models/koopa3.col" type="client"/>
+	<file src="models/koopa4.dff" type="client"/>
+	<file src="models/koopa4.col" type="client"/>
+	<file src="models/koopa5.dff" type="client"/>
+	<file src="models/koopa5.col" type="client"/>
+	<file src="models/koopa6.dff" type="client"/>
+	<file src="models/koopa6.col" type="client"/>
+	<file src="models/koopa7.dff" type="client"/>
+	<file src="models/koopa7.col" type="client"/>
+	<file src="models/koopa8.dff" type="client"/>
+	<file src="models/koopa8.col" type="client"/>
+	<file src="models/koopa9.dff" type="client"/>
+	<file src="models/koopa9.col" type="client"/>
+	<file src="models/koopa10.dff" type="client"/>
+	<file src="models/koopa10.col" type="client"/>
+
+</meta>

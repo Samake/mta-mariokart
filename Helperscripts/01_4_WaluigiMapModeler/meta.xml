@@ -1,0 +1,39 @@
+<meta>
+	<info name ="01_4_WaluigiMapModeler" description="01_4_WaluigiMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/waluigi.txd" type="client"/>
+	<file src="models/waluigi1.dff" type="client"/>
+	<file src="models/waluigi1.col" type="client"/>
+	<file src="models/waluigi2.dff" type="client"/>
+	<file src="models/waluigi2.col" type="client"/>
+	<file src="models/waluigi3.dff" type="client"/>
+	<file src="models/waluigi3.col" type="client"/>
+	<file src="models/waluigi4.dff" type="client"/>
+	<file src="models/waluigi4.col" type="client"/>
+	<file src="models/waluigi5.dff" type="client"/>
+	<file src="models/waluigi5.col" type="client"/>
+	<file src="models/waluigi6.dff" type="client"/>
+	<file src="models/waluigi6.col" type="client"/>
+	<file src="models/waluigi7.dff" type="client"/>
+	<file src="models/waluigi7.col" type="client"/>
+	<file src="models/waluigi8.dff" type="client"/>
+	<file src="models/waluigi8.col" type="client"/>
+	<file src="models/waluigi9.dff" type="client"/>
+	<file src="models/waluigi9.col" type="client"/>
+	<file src="models/waluigi10.dff" type="client"/>
+	<file src="models/waluigi10.col" type="client"/>
+	<file src="models/waluigi11.dff" type="client"/>
+	<file src="models/waluigi11.col" type="client"/>
+	<file src="models/waluigi12.dff" type="client"/>
+	<file src="models/waluigi12.col" type="client"/>
+	<file src="models/waluigi13.dff" type="client"/>
+	<file src="models/waluigi13.col" type="client"/>
+	<file src="models/waluigi14.dff" type="client"/>
+	<file src="models/waluigi14.col" type="client"/>
+</meta>

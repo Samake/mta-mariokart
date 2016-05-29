@@ -1,0 +1,282 @@
+<map edf:definitions="MarioKartEditor,editor_main">
+	<object id="waluigi1" breakable="false" interior="0" collisions="true" alpha="255" model="15051" doublesided="true" scale="1" dimension="0" posX="8.8999" posY="16.3" posZ="673.5" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi2" breakable="false" interior="0" collisions="true" alpha="255" model="15052" doublesided="true" scale="1" dimension="0" posX="252.3201" posY="41.6299" posZ="643.1" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi3" breakable="false" interior="0" collisions="true" alpha="255" model="15053" doublesided="true" scale="1" dimension="0" posX="498.03" posY="41.5801" posZ="655.29004" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi4" breakable="false" interior="0" collisions="true" alpha="255" model="15054" doublesided="true" scale="1" dimension="0" posX="708.1101" posY="21.1899" posZ="649.65" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi5" breakable="false" interior="0" collisions="true" alpha="255" model="15055" doublesided="true" scale="1" dimension="0" posX="12.6299" posY="-168.6401" posZ="676.01" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi6" breakable="false" interior="0" collisions="true" alpha="255" model="15056" doublesided="true" scale="1" dimension="0" posX="245.7129" posY="-166.6582" posZ="618.33997" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi7" breakable="false" interior="0" collisions="true" alpha="255" model="15057" doublesided="true" scale="1" dimension="0" posX="520.4033" posY="-144.3359" posZ="619.62" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi8" breakable="false" interior="0" collisions="true" alpha="255" model="15058" doublesided="true" scale="1" dimension="0" posX="740.02" posY="-159.3599" posZ="636.5" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi9" breakable="false" interior="0" collisions="true" alpha="255" model="15059" doublesided="true" scale="1" dimension="0" posX="36.47" posY="-341.54" posZ="678.52" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi10" breakable="false" interior="0" collisions="true" alpha="255" model="15060" doublesided="true" scale="1" dimension="0" posX="256.0508" posY="-337.791" posZ="652.81494" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi11" breakable="false" interior="0" collisions="true" alpha="255" model="15061" doublesided="true" scale="1" dimension="0" posX="501.73" posY="-337.8501" posZ="657.82996" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="waluigi12" breakable="false" interior="0" collisions="true" alpha="255" model="15062" doublesided="true" scale="1" dimension="0" posX="725.0801" posY="-311.6899" posZ="593.04004" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="rohr1" breakable="false" interior="0" collisions="true" alpha="255" model="15063" doublesided="true" scale="1" dimension="0" posX="395.761" posY="-299.1279" posZ="611.01794" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="rohr2" breakable="false" interior="0" collisions="true" alpha="255" model="15063" doublesided="true" scale="1" dimension="0" posX="495.9529" posY="-257.7412" posZ="611.01794" rotX="0" rotY="0" rotZ="180"></object>
+	<object id="rohr3" breakable="false" interior="0" collisions="true" alpha="255" model="15063" doublesided="true" scale="1" dimension="0" posX="275.658" posY="-256.2539" posZ="611.50305" rotX="0" rotY="0" rotZ="179.995"></object>
+	<finish id="finish (1)" posX="417.8579" posY="-154.9849" posZ="605.14294" rotX="0" rotY="0" rotZ="0"></finish>
+	<spawnpoint id="spawnpoint (Quadbike) (1)" vehicle="471" posX="425.175" posY="-164.4658" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (2)" vehicle="471" alpha="255" interior="0" posX="425.2581" posY="-162.2168" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (3)" vehicle="471" alpha="255" interior="0" posX="425.3501" posY="-159.7192" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (4)" vehicle="471" alpha="255" interior="0" posX="425.4519" posY="-156.9712" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (5)" vehicle="471" alpha="255" interior="0" posX="425.5439" posY="-154.4722" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (6)" vehicle="471" alpha="255" interior="0" posX="425.645" posY="-151.7241" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (7)" vehicle="471" alpha="255" interior="0" posX="425.7471" posY="-148.9761" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (8)" vehicle="471" alpha="255" interior="0" posX="429.4951" posY="-149.1138" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (9)" vehicle="471" alpha="255" interior="0" posX="429.384" posY="-152.1108" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (10)" vehicle="471" alpha="255" interior="0" posX="429.291" posY="-154.6089" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (11)" vehicle="471" alpha="255" interior="0" posX="429.208" posY="-156.8569" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (12)" vehicle="471" alpha="255" interior="0" posX="429.1011" posY="-159.7539" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (13)" vehicle="471" alpha="255" interior="0" posX="429.019" posY="-162.002" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (14)" vehicle="471" alpha="255" interior="0" posX="428.927" posY="-164.5" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (15)" vehicle="471" alpha="255" interior="0" posX="432.4241" posY="-164.6289" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (16)" vehicle="471" alpha="255" interior="0" posX="432.5249" posY="-161.8809" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (17)" vehicle="471" alpha="255" interior="0" posX="432.6021" posY="-159.8071" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (18)" vehicle="471" alpha="255" interior="0" posX="432.7129" posY="-156.8091" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (19)" vehicle="471" alpha="255" interior="0" posX="432.7871" posY="-154.8101" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (20)" vehicle="471" alpha="255" interior="0" posX="432.8889" posY="-152.061" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (21)" vehicle="471" alpha="255" interior="0" posX="432.999" posY="-149.063" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (22)" vehicle="471" alpha="255" interior="0" posX="432.999" posY="-149.0625" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (23)" vehicle="471" alpha="255" interior="0" posX="437.499" posY="-149.1138" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (24)" vehicle="471" alpha="255" interior="0" posX="437.47" posY="-151.6128" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (25)" vehicle="471" alpha="255" interior="0" posX="437.4409" posY="-154.1118" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (26)" vehicle="471" alpha="255" interior="0" posX="437.4099" posY="-156.8608" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (27)" vehicle="471" alpha="255" interior="0" posX="437.384" posY="-159.1099" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (28)" vehicle="471" alpha="255" interior="0" posX="437.3579" posY="-161.3589" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (29)" vehicle="471" alpha="255" interior="0" posX="437.333" posY="-163.6079" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (30)" vehicle="471" alpha="255" interior="0" posX="440.583" posY="-163.645" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (31)" vehicle="471" alpha="255" interior="0" posX="440.6089" posY="-161.395" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (32)" vehicle="471" alpha="255" interior="0" posX="440.7151" posY="-152.145" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (33)" vehicle="471" alpha="255" interior="0" posX="440.7461" posY="-149.395" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (34)" vehicle="471" alpha="255" interior="0" posX="440.7461" posY="-149.3945" posZ="605.625" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<respawnpoint id="respawnpoint (1)" posX="421.522" posY="-155.1069" posZ="606.088" rotX="0" rotY="0" rotZ="90"></respawnpoint>
+	<respawnpoint id="respawnpoint (2)" posX="288.2271" posY="-116.021" posZ="606.058" rotX="0" rotY="0" rotZ="0"></respawnpoint>
+	<respawnpoint id="respawnpoint (3)" posX="414.4819" posY="-31.675" posZ="606.18896" rotX="0" rotY="0" rotZ="210"></respawnpoint>
+	<respawnpoint id="respawnpoint (4)" posX="238.783" posY="-93.627" posZ="607.61" rotX="0" rotY="0" rotZ="90"></respawnpoint>
+	<respawnpoint id="respawnpoint (5)" posX="173.4729" posY="-274.7559" posZ="606.06396" rotX="0" rotY="0" rotZ="270"></respawnpoint>
+	<respawnpoint id="respawnpoint (6)" posX="535.927" posY="-243.3291" posZ="606.338" rotX="0" rotY="0" rotZ="0"></respawnpoint>
+	<respawnpoint id="respawnpoint (7)" posX="536.718" posY="-47.1299" posZ="607.62305" rotX="0" rotY="0" rotZ="330"></respawnpoint>
+	<respawnpoint id="respawnpoint (8)" posX="625.6431" posY="-155.6851" posZ="606.39294" rotX="0" rotY="0" rotZ="90"></respawnpoint>
+	<checkpoint id="checkpoint (1)" posX="236.28" posY="-95.781" posZ="606.292" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<checkpoint id="checkpoint (2)" posX="538.2529" posY="-219.4038" posZ="605.088" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<checkpoint id="checkpoint (3)" posX="598.3931" posY="-153.1411" posZ="605.235" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<itemspawnpoint id="itemspawnpoint (1)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="309.1189" posY="-160.8481" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (2)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="310.822" posY="-157.1602" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (3)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="312.408" posY="-153.3398" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (4)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="313.668" posY="-149.4561" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (5)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="315.0439" posY="-144.8618" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (6)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="311.1101" posY="-139.6401" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (7)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="308.937" posY="-144.5991" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (8)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="307.2629" posY="-149.2671" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (9)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="306.0591" posY="-153.396" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (10)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="304.354" posY="-157.5571" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (11)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="302.0759" posY="-161.1079" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (12)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="402.103" posY="-103.918" posZ="605.10596" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (13)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="401.8611" posY="-99.8921" posZ="605.11096" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (14)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="401.6221" posY="-95.929" posZ="605.11597" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (15)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="401.238" posY="-91.3491" posZ="605.12195" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (16)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="400.6489" posY="-86.9619" posZ="605.13306" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (17)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="395.575" posY="-85.386" posZ="605.146" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (18)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="395.728" posY="-89.1931" posZ="605.14" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (19)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="396.167" posY="-94.157" posZ="605.13" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (20)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="396.8169" posY="-98.9009" posZ="605.126" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (21)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="396.5801" posY="-103.3281" posZ="605.126" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (22)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="396.7859" posY="-106.8979" posZ="605.329" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (23)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="150.5449" posY="-226.374" posZ="605.525" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (24)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="146.2109" posY="-227.4331" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (25)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="141.5901" posY="-228.0171" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (26)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="136.4771" posY="-228.9092" posZ="605.21106" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (27)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="148.7549" posY="-233.0571" posZ="605.598" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (28)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="144.293" posY="-235.5898" posZ="605.058" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (29)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="138.9399" posY="-236.1089" posZ="605.176" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (30)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="134.7161" posY="-234.1509" posZ="606.13196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (31)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="523.498" posY="-255.6851" posZ="606.24097" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (32)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="528.0049" posY="-256.5889" posZ="605.303" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (33)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="532.582" posY="-258.5469" posZ="605.072" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (34)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="537.0161" posY="-260.8579" posZ="605.26294" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (35)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="540.314" posY="-264.8999" posZ="606.54895" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (36)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="541.7161" posY="-257.165" posZ="605.786" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (37)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="537.512" posY="-253.6782" posZ="605.072" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (38)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="532.6609" posY="-251.9009" posZ="605.131" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (39)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="527.7729" posY="-251.333" posZ="606.031" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (40)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="593.449" posY="-67.488" posZ="605.568" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (41)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="590.0171" posY="-70.4141" posZ="605.26" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (42)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="586.197" posY="-73.6731" posZ="605.18396" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (43)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="582.3491" posY="-77.0181" posZ="605.15295" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (44)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="578.646" posY="-80.6399" posZ="605.12195" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (45)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="575.0271" posY="-82.9419" posZ="605.282" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (46)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="579.928" posY="-88.2429" posZ="605.094" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (47)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="584.5559" posY="-84.4541" posZ="605.103" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (48)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="588.033" posY="-80.594" posZ="605.11096" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (49)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="591.719" posY="-77.1299" posZ="605.10596" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (50)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="596.301" posY="-74.3669" posZ="605.19495" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (1)" posX="344.6521" posY="-20.415" posZ="612.287" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (2)" posX="344.6189" posY="-39.312" posZ="612.275" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (3)" posX="442.481" posY="-59.0491" posZ="605.225" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (4)" posX="443.072" posY="-64.7241" posZ="605.162" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (5)" posX="442.9131" posY="-69.9021" posZ="605.10596" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (6)" posX="441.853" posY="-75.2209" posZ="605.04895" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (7)" posX="117.7209" posY="-100.5078" posZ="605.058" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (8)" posX="120.342" posY="-95.2119" posZ="605.058" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (9)" posX="123.656" posY="-90.269" posZ="605.06006" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (10)" posX="127.6589" posY="-84.9241" posZ="605.062" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (11)" posX="276.3" posY="-281.8999" posZ="605.19995" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (12)" posX="395.9409" posY="-271.1968" posZ="605.31104" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (13)" posX="496.429" posY="-285.103" posZ="605.33496" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (14)" posX="529.1289" posY="-88.7061" posZ="609.046" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (15)" posX="547.53" posY="-87.459" posZ="609.01196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (16)" posX="612.052" posY="-35.2461" posZ="610.271" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (17)" posX="616.8889" posY="-38.2839" posZ="609.428" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (18)" posX="622.5591" posY="-41.5481" posZ="608.51" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (19)" posX="628.3" posY="-45.7771" posZ="607.702" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (20)" posX="633.1321" posY="-51.5149" posZ="607.47205" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (21)" posX="516.751" posY="-168.6318" posZ="615.239" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (22)" posX="517.3479" posY="-143.0898" posZ="615.48" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<boostfield id="boostfield (1)" posX="342.135" posY="-20.479" posZ="610.511" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (2)" posX="342.2549" posY="-22.116" posZ="610.65295" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (3)" posX="342.311" posY="-23.804" posZ="610.719" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (4)" posX="342.082" posY="-25.4729" posZ="610.448" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (5)" posX="342.1699" posY="-27.123" posZ="610.552" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (6)" posX="342.4729" posY="-28.7319" posZ="610.871" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (7)" posX="342.3479" posY="-30.3159" posZ="610.76196" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (8)" posX="342.2129" posY="-31.936" posZ="610.603" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (9)" posX="342.0471" posY="-33.511" posZ="610.407" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (10)" posX="342.135" posY="-35.137" posZ="610.511" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (11)" posX="342.3931" posY="-36.741" posZ="610.801" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (12)" posX="342.281" posY="-38.3191" posZ="610.68396" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (13)" posX="342.147" posY="-39.8521" posZ="610.525" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (14)" posX="336.3931" posY="-19.406" posZ="605.864" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (15)" posX="336.4189" posY="-21.041" posZ="605.87805" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (16)" posX="336.5649" posY="-22.5869" posZ="605.958" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (17)" posX="336.512" posY="-24.207" posZ="605.92896" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (18)" posX="336.4199" posY="-25.7939" posZ="605.87805" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (19)" posX="336.5259" posY="-27.325" posZ="605.937" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (20)" posX="336.5139" posY="-28.8701" posZ="605.93005" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (21)" posX="336.501" posY="-30.416" posZ="605.923" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (22)" posX="336.408" posY="-32.033" posZ="605.87195" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (23)" posX="336.356" posY="-33.5759" posZ="605.844" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (24)" posX="336.343" posY="-35.157" posZ="605.83606" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (25)" posX="336.3701" posY="-36.7451" posZ="605.85095" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (26)" posX="336.238" posY="-38.311" posZ="605.77905" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (27)" posX="336.344" posY="-39.842" posZ="605.83704" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (28)" posX="336.533" posY="-41.176" posZ="605.94104" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (29)" posX="313.3999" posY="-104.3481" posZ="615.88196" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (30)" posX="313.2339" posY="-102.811" posZ="616.07996" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (31)" posX="313.106" posY="-101.3301" posZ="616.23596" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (32)" posX="313.2881" posY="-99.8198" posZ="616.036" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (33)" posX="313.238" posY="-98.2559" posZ="616.10205" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (34)" posX="313.207" posY="-96.688" posZ="616.146" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (35)" posX="313.2151" posY="-95.2151" posZ="616.145" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (36)" posX="313.2959" posY="-93.6279" posZ="616.05396" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (37)" posX="313.2991" posY="-92.1321" posZ="616.051" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (38)" posX="313.415" posY="-90.7009" posZ="615.91394" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (39)" posX="313.228" posY="-89.0991" posZ="616.135" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (40)" posX="313.23" posY="-87.501" posZ="616.131" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (41)" posX="318.656" posY="-104.48" posZ="611.36804" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (42)" posX="318.5049" posY="-102.998" posZ="611.46204" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (43)" posX="318.387" posY="-101.4702" posZ="611.53406" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (44)" posX="318.446" posY="-99.9878" posZ="611.49805" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (45)" posX="318.47" posY="-98.4121" posZ="611.48303" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (46)" posX="318.4231" posY="-96.8931" posZ="611.51196" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (47)" posX="318.478" posY="-95.373" posZ="611.474" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (48)" posX="318.533" posY="-93.9451" posZ="611.437" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (49)" posX="318.5161" posY="-92.4451" posZ="611.44104" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (50)" posX="318.5349" posY="-90.9451" posZ="611.42505" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (51)" posX="318.5911" posY="-89.479" posZ="611.38696" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (52)" posX="318.575" posY="-87.9031" posZ="611.391" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (53)" posX="318.4431" posY="-86.802" posZ="611.46497" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (54)" posX="324.9141" posY="-104.5928" posZ="608.401" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (55)" posX="324.783" posY="-103.2349" posZ="608.447" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (56)" posX="324.7839" posY="-101.876" posZ="608.449" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (57)" posX="324.854" posY="-100.3491" posZ="608.428" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (58)" posX="324.989" posY="-98.8472" posZ="608.38403" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (59)" posX="324.9609" posY="-97.2949" posZ="608.396" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (60)" posX="324.9939" posY="-95.821" posZ="608.38306" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (61)" posX="325.031" posY="-94.344" posZ="608.374" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (62)" posX="325.1021" posY="-92.844" posZ="608.354" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (63)" posX="325.0381" posY="-91.457" posZ="608.379" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (64)" posX="325.1741" posY="-89.9951" posZ="608.33704" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (65)" posX="325.177" posY="-88.5601" posZ="608.33997" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (66)" posX="325.083" posY="-87.01" posZ="608.375" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (67)" posX="334.646" posY="-104.4038" posZ="606.11597" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (68)" posX="334.4299" posY="-102.875" posZ="606.147" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (69)" posX="334.4041" posY="-101.3149" posZ="606.152" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (70)" posX="334.427" posY="-99.8179" posZ="606.151" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (71)" posX="334.45" posY="-98.3901" posZ="606.14905" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (72)" posX="334.521" posY="-96.9341" posZ="606.141" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (73)" posX="334.5891" posY="-95.4851" posZ="606.13" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (74)" posX="334.5181" posY="-94.032" posZ="606.141" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (75)" posX="334.7271" posY="-92.5129" posZ="606.114" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (76)" posX="334.842" posY="-91.061" posZ="606.099" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (77)" posX="334.771" posY="-89.584" posZ="606.11" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (78)" posX="334.698" posY="-88.073" posZ="606.121" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (79)" posX="334.6289" posY="-86.75" posZ="606.131" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (80)" posX="559.0161" posY="-163.5879" posZ="617.995" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (81)" posX="559.04" posY="-162.0322" posZ="617.974" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (82)" posX="558.8931" posY="-160.5142" posZ="618.099" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (83)" posX="558.8501" posY="-159.0342" posZ="618.136" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (84)" posX="558.8411" posY="-157.6411" posZ="618.14294" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (85)" posX="558.832" posY="-156.1631" posZ="618.151" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (86)" posX="558.8899" posY="-154.6299" posZ="618.10095" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (87)" posX="558.949" posY="-153.2261" posZ="618.051" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (88)" posX="558.8721" posY="-151.7612" posZ="618.11694" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (89)" posX="558.863" posY="-150.2749" posZ="618.125" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (90)" posX="558.9209" posY="-148.833" posZ="618.07495" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (91)" posX="558.9121" posY="-147.3291" posZ="618.083" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (92)" posX="563.2581" posY="-163.5059" posZ="614.79395" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (93)" posX="563.115" posY="-162.1641" posZ="614.88696" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (94)" posX="563.0659" posY="-160.7651" posZ="614.91895" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (95)" posX="563.1741" posY="-159.2622" posZ="614.849" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (96)" posX="563.092" posY="-157.6948" posZ="614.902" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (97)" posX="563.073" posY="-156.1738" posZ="614.91394" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (98)" posX="563.2109" posY="-154.604" posZ="614.82495" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (99)" posX="563.2871" posY="-153.2061" posZ="614.775" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (100)" posX="563.238" posY="-151.6821" posZ="614.808" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (101)" posX="563.25" posY="-150.168" posZ="614.80005" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (102)" posX="563.324" posY="-148.7002" posZ="614.75195" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (103)" posX="563.2141" posY="-147.2729" posZ="614.823" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (104)" posX="569.0471" posY="-163.4712" posZ="611.645" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (105)" posX="569.031" posY="-161.96" posZ="611.652" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (106)" posX="568.863" posY="-160.4648" posZ="611.729" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (107)" posX="568.948" posY="-158.9468" posZ="611.68994" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (108)" posX="568.8811" posY="-157.4409" posZ="611.72" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (109)" posX="568.865" posY="-155.896" posZ="611.728" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (110)" posX="568.8989" posY="-154.355" posZ="611.71204" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (111)" posX="568.9331" posY="-152.7461" posZ="611.697" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (112)" posX="568.917" posY="-151.2461" posZ="611.704" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (113)" posX="568.9509" posY="-149.7529" posZ="611.688" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (114)" posX="568.9829" posY="-148.083" posZ="611.67395" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (115)" posX="575.707" posY="-163.3618" posZ="609.11096" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (116)" posX="575.512" posY="-161.834" posZ="609.172" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (117)" posX="575.5759" posY="-160.2681" posZ="609.152" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (118)" posX="575.511" posY="-158.749" posZ="609.172" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (119)" posX="575.3159" posY="-157.231" posZ="609.234" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (120)" posX="575.3811" posY="-155.6411" posZ="609.214" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (121)" posX="575.488" posY="-154.062" posZ="609.18005" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (122)" posX="575.552" posY="-152.521" posZ="609.16003" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (123)" posX="575.531" posY="-151.0088" posZ="609.166" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (124)" posX="575.595" posY="-149.5122" posZ="609.146" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (125)" posX="575.4861" posY="-147.8608" posZ="609.181" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (126)" posX="583.0569" posY="-163.4321" posZ="607.19104" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (127)" posX="582.9619" posY="-161.8799" posZ="607.21106" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (128)" posX="582.999" posY="-160.3638" posZ="607.203" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (129)" posX="582.9031" posY="-158.8081" posZ="607.224" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (130)" posX="582.906" posY="-157.3018" posZ="607.223" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (131)" posX="583.0439" posY="-155.7788" posZ="607.193" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (132)" posX="583.0459" posY="-154.292" posZ="607.193" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (133)" posX="583.1831" posY="-152.8018" posZ="607.16296" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (134)" posX="583.186" posY="-151.312" posZ="607.16296" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (135)" posX="583.321" posY="-149.8979" posZ="607.13403" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (136)" posX="583.29" posY="-148.415" posZ="607.14" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (137)" posX="590.593" posY="-147.603" posZ="605.93005" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (138)" posX="590.551" posY="-148.9951" posZ="605.93506" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (139)" posX="590.6421" posY="-150.4731" posZ="605.92395" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (140)" posX="590.626" posY="-151.9048" posZ="605.926" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (141)" posX="590.6101" posY="-153.396" posZ="605.928" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (142)" posX="590.647" posY="-154.9692" posZ="605.92395" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (143)" posX="590.55" posY="-156.478" posZ="605.93506" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (144)" posX="590.5049" posY="-158.105" posZ="605.94104" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (145)" posX="590.407" posY="-159.8018" posZ="605.953" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (146)" posX="590.437" posY="-161.4561" posZ="605.949" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (147)" posX="590.6521" posY="-163.166" posZ="605.923" rotX="0" rotY="0" rotZ="0"></boostfield>
+</map>

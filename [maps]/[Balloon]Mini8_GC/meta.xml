@@ -1,0 +1,36 @@
+<meta>
+    <info gamemodes="MarioKart" type="map" name="[Balloon]Mini8_GC" author="Samake" version="v1" description="Mini 8 GC"></info>
+    <map src="Mini8_GC.map" dimension="0"></map>
+    
+	<settings>
+        <setting name="#maxplayers" value="[ 32 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 1 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="18:0"></setting>
+    </settings>
+	
+	<!-- objects  -->
+    <file src="models/mini8.txd" type="client" />
+    <file src="models/mini81.dff" type="client" cache="false" />
+    <file src="models/mini81.col" type="client" cache="false" />
+    <file src="models/mini82.dff" type="client" cache="false" />
+    <file src="models/mini82.col" type="client" cache="false" />
+    <file src="models/mini83.dff" type="client" cache="false" />
+    <file src="models/mini83.col" type="client" cache="false" />
+    <file src="models/mini84.dff" type="client" cache="false" />
+    <file src="models/mini84.col" type="client" cache="false" />
+    
+    <!-- sound  -->
+    <file src="sounds/Balloon_Battle.ogg" type="client" cache="false" />
+	
+	<!-- scripts  -->
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	<script src="Mini8C.lua" type="client" validate="false"></script>
+	<script src="Mini8CTeleport.lua" type="server" validate="false"></script>
+</meta>

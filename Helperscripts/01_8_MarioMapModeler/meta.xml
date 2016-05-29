@@ -1,0 +1,31 @@
+<meta>
+	<info name ="01_8_MarioMapModeler" description="01_8_MarioMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/mario.txd" type="client"/>
+	<file src="models/mario1.dff" type="client"/>
+	<file src="models/mario1.col" type="client"/>
+	<file src="models/mario2.dff" type="client"/>
+	<file src="models/mario2.col" type="client"/>
+	<file src="models/mario3.dff" type="client"/>
+	<file src="models/mario3.col" type="client"/>
+	<file src="models/mario4.dff" type="client"/>
+	<file src="models/mario4.col" type="client"/>
+	<file src="models/mario5.dff" type="client"/>
+	<file src="models/mario5.col" type="client"/>
+	<file src="models/mario6.dff" type="client"/>
+	<file src="models/mario6.col" type="client"/>
+	<file src="models/mario7.dff" type="client"/>
+	<file src="models/mario7.col" type="client"/>
+	<file src="models/mario8.dff" type="client"/>
+	<file src="models/mario8.col" type="client"/>
+	<file src="models/mario9.dff" type="client"/>
+	<file src="models/mario9.col" type="client"/>
+	<file src="models/mario10.dff" type="client"/>
+	<file src="models/mario10.col" type="client"/>
+</meta>

@@ -1,0 +1,29 @@
+<meta>
+	<info name ="01_1_YoshiMapModeler" description="01_1_YoshiMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/yoshi.txd" type="client"/>
+	<file src="models/yoshi1.dff" type="client"/>
+	<file src="models/yoshi1.col" type="client"/>
+	<file src="models/yoshi2.dff" type="client"/>
+	<file src="models/yoshi2.col" type="client"/>
+	<file src="models/yoshi3.dff" type="client"/>
+	<file src="models/yoshi3.col" type="client"/>
+	<file src="models/yoshi4.dff" type="client"/>
+	<file src="models/yoshi4.col" type="client"/>
+	<file src="models/yoshi5.dff" type="client"/>
+	<file src="models/yoshi5.col" type="client"/>
+	<file src="models/yoshi6.dff" type="client"/>
+	<file src="models/yoshi6.col" type="client"/>
+	<file src="models/yoshi7.dff" type="client"/>
+	<file src="models/yoshi7.col" type="client"/>
+	<file src="models/yoshi8.dff" type="client"/>
+	<file src="models/yoshi8.col" type="client"/>
+	<file src="models/yoshi9.dff" type="client"/>
+	<file src="models/yoshi9.col" type="client"/>
+</meta>

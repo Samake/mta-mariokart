@@ -1,0 +1,45 @@
+<meta>
+    <info gamemodes="MarioKart" type="map" name="[Race]Baby_GC" author="Samake" version="v2" description="Baby´s Course"></info>
+    <map src="Baby_GC.map" dimension="0"></map>
+    
+	<settings>
+        <setting name="#maxplayers" value="[ 32 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="9:0"></setting>
+    </settings>
+    
+    <!-- objects  -->
+    <file src="models/baby.txd" type="client" cache="false" />
+    <file src="models/baby1.dff" type="client" cache="false" />
+    <file src="models/baby1.col" type="client" cache="false" />
+    <file src="models/baby2.dff" type="client" cache="false" />
+    <file src="models/baby2.col" type="client" cache="false" />
+    <file src="models/baby3.dff" type="client" cache="false" />
+    <file src="models/baby3.col" type="client" cache="false" />
+    <file src="models/baby4.dff" type="client" cache="false" />
+    <file src="models/baby4.col" type="client" cache="false" />
+    <file src="models/baby5.dff" type="client" cache="false" />
+    <file src="models/baby5.col" type="client" cache="false" />
+    <file src="models/baby6.dff" type="client" cache="false" />
+    <file src="models/baby6.col" type="client" cache="false" />
+    <file src="models/baby7.dff" type="client" cache="false" />
+    <file src="models/baby7.col" type="client" cache="false" />
+    <file src="models/baby8.dff" type="client" cache="false" />
+    <file src="models/baby8.col" type="client" cache="false" />
+    <file src="models/baby9.dff" type="client" cache="false" />
+    <file src="models/baby9.col" type="client" cache="false" />
+    
+    <!-- sound  -->
+    <file src="sounds/baby_park.ogg" type="client" cache="false" />
+	
+	<!-- scripts  -->
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="BabyC.lua" type="client" validate="false"></script>
+</meta>

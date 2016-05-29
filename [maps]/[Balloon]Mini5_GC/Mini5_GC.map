@@ -1,0 +1,59 @@
+<map edf:definitions="MarioKartEditor,editor_main">
+	<object id="mini51" breakable="false" interior="0" collisions="true" alpha="255" model="15051" doublesided="true" scale="1" dimension="0" posX="0.0" posY="0.0" posZ="685.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="mini52" breakable="false" interior="0" collisions="true" alpha="255" model="15052" doublesided="true" scale="1" dimension="0" posX="82.9795" posY="-6.3357" posZ="685.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="mini53" breakable="false" interior="0" collisions="true" alpha="255" model="15053" doublesided="true" scale="1" dimension="0" posX="6.9143" posY="-94.479" posZ="685.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="mini54" breakable="false" interior="0" collisions="true" alpha="255" model="15054" doublesided="true" scale="1" dimension="0" posX="107.7529" posY="-105.4014" posZ="685.0" rotX="0" rotY="0" rotZ="0"></object>
+	<coinspawnpoint id="coinspawnpoint (1)" posX="-42.4451" posY="45.4812" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (2)" posX="-42.813" posY="-121.7114" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (3)" posX="148.3936" posY="-145.9854" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (4)" posX="101.8628" posY="32.7874" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (1)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="53.4338" posY="-50.259" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (2)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="53.4021" posY="-38.3594" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (3)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="65.47" posY="-49.8279" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (4)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="64.825" posY="-38.6587" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (5)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="40.0435" posY="-50.5703" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (6)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="41.0886" posY="-38.3494" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (7)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="41.0742" posY="-26.4214" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (8)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="54.1411" posY="-26.8665" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (9)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="65.2595" posY="-27.0928" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (11)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="32.4348" posY="-38.3435" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (12)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="53.3164" posY="-63.2229" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (13)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="77.3264" posY="-39.1631" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (14)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="54.0085" posY="-13.5393" posZ="686.67896" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (1)" vehicle="471" posX="77.9241" posY="-129.9136" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (2)" vehicle="471" alpha="255" interior="0" posX="74.4238" posY="-129.9189" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (3)" vehicle="471" alpha="255" interior="0" posX="70.9238" posY="-129.9248" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (4)" vehicle="471" alpha="255" interior="0" posX="66.4238" posY="-129.9326" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (5)" vehicle="471" alpha="255" interior="0" posX="61.4238" posY="-129.9414" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (6)" vehicle="471" alpha="255" interior="0" posX="56.4238" posY="-129.9502" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (7)" vehicle="471" alpha="255" interior="0" posX="51.9238" posY="-129.958" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (8)" vehicle="471" alpha="255" interior="0" posX="46.6738" posY="-129.9668" posZ="687.2156" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (9)" vehicle="471" posX="-25.887" posY="-55.666" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (10)" vehicle="471" alpha="255" interior="0" posX="-25.8076" posY="-51.6667" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (11)" vehicle="471" alpha="255" interior="0" posX="-25.7285" posY="-47.6677" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (12)" vehicle="471" alpha="255" interior="0" posX="-25.6543" posY="-43.9187" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (13)" vehicle="471" alpha="255" interior="0" posX="-25.5554" posY="-38.9199" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (14)" vehicle="471" alpha="255" interior="0" posX="-25.4517" posY="-33.6709" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (15)" vehicle="471" alpha="255" interior="0" posX="-25.3523" posY="-28.6719" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (16)" vehicle="471" alpha="255" interior="0" posX="-25.2388" posY="-22.9231" posZ="687.2156" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (17)" vehicle="471" posX="37.7805" posY="38.3792" posZ="687.2156" rotX="0" rotY="0" rotZ="184"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (18)" vehicle="471" alpha="255" interior="0" posX="42.0298" posY="38.3115" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (19)" vehicle="471" alpha="255" interior="0" posX="46.2798" posY="38.2441" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (20)" vehicle="471" alpha="255" interior="0" posX="51.0298" posY="38.1689" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (21)" vehicle="471" alpha="255" interior="0" posX="55.7798" posY="38.0938" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (22)" vehicle="471" alpha="255" interior="0" posX="60.5298" posY="38.0186" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (23)" vehicle="471" alpha="255" interior="0" posX="65.2798" posY="37.9434" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (24)" vehicle="471" alpha="255" interior="0" posX="70.7795" posY="37.8562" posZ="687.2156" rotX="0" rotY="0" rotZ="183.999"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (25)" vehicle="471" posX="124.5032" posY="-41.6711" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (26)" vehicle="471" alpha="255" interior="0" posX="124.5068" posY="-46.1709" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (27)" vehicle="471" alpha="255" interior="0" posX="124.5112" posY="-51.4209" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (28)" vehicle="471" alpha="255" interior="0" posX="124.5164" posY="-56.9209" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (29)" vehicle="471" alpha="255" interior="0" posX="124.521" posY="-61.9209" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (30)" vehicle="471" alpha="255" interior="0" posX="124.5251" posY="-66.1709" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (31)" vehicle="471" alpha="255" interior="0" posX="124.5291" posY="-70.4209" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (32)" vehicle="471" alpha="255" interior="0" posX="124.5334" posY="-75.1709" posZ="687.2156" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+	<respawnpoint id="respawnpoint (1)" posX="-34.1973" posY="-93.8462" posZ="687.92896" rotX="0" rotY="0" rotZ="276"></respawnpoint>
+	<respawnpoint id="respawnpoint (2)" posX="124.8091" posY="-135.1475" posZ="688.92896" rotX="0" rotY="0" rotZ="0"></respawnpoint>
+	<respawnpoint id="respawnpoint (3)" posX="149.6064" posY="-61.9666" posZ="688.17896" rotX="0" rotY="0" rotZ="90"></respawnpoint>
+	<respawnpoint id="respawnpoint (4)" posX="89.2957" posY="32.5833" posZ="687.92896" rotX="0" rotY="0" rotZ="178"></respawnpoint>
+</map>

@@ -1,0 +1,19 @@
+<meta>
+	<info name ="02_6_Mini8MapModeler" description="02_6_Mini8MapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/mini8.txd" type="client"/>
+	<file src="models/mini81.dff" type="client"/>
+	<file src="models/mini81.col" type="client"/>
+	<file src="models/mini82.dff" type="client"/>
+	<file src="models/mini82.col" type="client"/>
+	<file src="models/mini83.dff" type="client"/>
+	<file src="models/mini83.col" type="client"/>
+	<file src="models/mini84.dff" type="client"/>
+	<file src="models/mini84.col" type="client"/>
+</meta>

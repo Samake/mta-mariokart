@@ -1,0 +1,27 @@
+<meta>
+	<info name ="01_9_LuigiMapModeler" description="01_9_LuigiMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/luigi.txd" type="client"/>
+	<file src="models/luigi1.dff" type="client"/>
+	<file src="models/luigi1.col" type="client"/>
+	<file src="models/luigi2.dff" type="client"/>
+	<file src="models/luigi2.col" type="client"/>
+	<file src="models/luigi3.dff" type="client"/>
+	<file src="models/luigi3.col" type="client"/>
+	<file src="models/luigi4.dff" type="client"/>
+	<file src="models/luigi4.col" type="client"/>
+	<file src="models/luigi5.dff" type="client"/>
+	<file src="models/luigi5.col" type="client"/>
+	<file src="models/luigi6.dff" type="client"/>
+	<file src="models/luigi6.col" type="client"/>
+	<file src="models/luigi7.dff" type="client"/>
+	<file src="models/luigi7.col" type="client"/>
+	<file src="models/luigi8.dff" type="client"/>
+	<file src="models/luigi8.col" type="client"/>
+</meta>

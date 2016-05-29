@@ -1,0 +1,30 @@
+<meta>
+	<info name ="01_7_BabyMapModeler" description="01_7_BabyMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/baby.txd" type="client"/>
+	<file src="models/baby1.dff" type="client"/>
+	<file src="models/baby1.col" type="client"/>
+	<file src="models/baby2.dff" type="client"/>
+	<file src="models/baby2.col" type="client"/>
+	<file src="models/baby3.dff" type="client"/>
+	<file src="models/baby3.col" type="client"/>
+	<file src="models/baby4.dff" type="client"/>
+	<file src="models/baby4.col" type="client"/>
+	<file src="models/baby5.dff" type="client"/>
+	<file src="models/baby5.col" type="client"/>
+	<file src="models/baby6.dff" type="client"/>
+	<file src="models/baby6.col" type="client"/>
+	<file src="models/baby7.dff" type="client"/>
+	<file src="models/baby7.col" type="client"/>
+	<file src="models/baby8.dff" type="client"/>
+	<file src="models/baby8.col" type="client"/>
+	<file src="models/baby9.dff" type="client"/>
+	<file src="models/baby9.col" type="client"/>
+
+</meta>

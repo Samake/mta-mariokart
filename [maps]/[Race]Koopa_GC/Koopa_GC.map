@@ -1,0 +1,236 @@
+<map edf:definitions="MarioKartEditor,editor_main">
+	<object id="koopa1" breakable="false" interior="0" collisions="true" alpha="255" model="15051" doublesided="true" scale="1" dimension="0" posX="0.0" posY="0.0" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa2" breakable="false" interior="0" collisions="true" alpha="255" model="15052" doublesided="true" scale="1" dimension="0" posX="-76.7148" posY="-251.7061" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa3" breakable="false" interior="0" collisions="true" alpha="255" model="15053" doublesided="true" scale="1" dimension="0" posX="87.2119" posY="-302.9824" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa4" breakable="false" interior="0" collisions="true" alpha="255" model="15054" doublesided="true" scale="1" dimension="0" posX="318.0593" posY="-323.2456" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa5" breakable="false" interior="0" collisions="true" alpha="255" model="15055" doublesided="true" scale="1" dimension="0" posX="-333.4302" posY="-590.5151" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa6" breakable="false" interior="0" collisions="true" alpha="255" model="15056" doublesided="true" scale="1" dimension="0" posX="-138.6187" posY="-523.1411" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa7" breakable="false" interior="0" collisions="true" alpha="255" model="15057" doublesided="true" scale="1" dimension="0" posX="-31.155" posY="-533.2407" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="koopa8" breakable="false" interior="0" collisions="true" alpha="255" model="15058" doublesided="true" scale="1" dimension="0" posX="112.293" posY="-600.4609" posZ="605.0" rotX="0" rotY="0" rotZ="0"></object>
+	<spawnpoint id="spawnpoint (Quadbike) (1)" vehicle="471" posX="94.6133" posY="-524.4355" posZ="643.55945" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (2)" vehicle="471" alpha="255" interior="0" posX="96.8628" posY="-524.3833" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (3)" vehicle="471" alpha="255" interior="0" posX="99.3625" posY="-524.3247" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (4)" vehicle="471" alpha="255" interior="0" posX="102.1116" posY="-524.2603" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (5)" vehicle="471" alpha="255" interior="0" posX="104.6106" posY="-524.2012" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (6)" vehicle="471" alpha="255" interior="0" posX="107.1096" posY="-524.1431" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (7)" vehicle="471" alpha="255" interior="0" posX="94.7178" posY="-528.9331" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (8)" vehicle="471" alpha="255" interior="0" posX="96.9673" posY="-528.8799" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (9)" vehicle="471" alpha="255" interior="0" posX="99.467" posY="-528.8218" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (10)" vehicle="471" alpha="255" interior="0" posX="101.9661" posY="-528.7632" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (11)" vehicle="471" alpha="255" interior="0" posX="104.4651" posY="-528.7046" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (12)" vehicle="471" alpha="255" interior="0" posX="106.9641" posY="-528.646" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (13)" vehicle="471" alpha="255" interior="0" posX="94.8279" posY="-533.6802" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (14)" vehicle="471" alpha="255" interior="0" posX="97.0774" posY="-533.6274" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (15)" vehicle="471" alpha="255" interior="0" posX="99.5764" posY="-533.5684" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (16)" vehicle="471" alpha="255" interior="0" posX="101.8257" posY="-533.5161" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (17)" vehicle="471" alpha="255" interior="0" posX="104.3254" posY="-533.4575" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (18)" vehicle="471" alpha="255" interior="0" posX="106.8245" posY="-533.3989" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (19)" vehicle="471" alpha="255" interior="0" posX="94.9265" posY="-537.9272" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (20)" vehicle="471" alpha="255" interior="0" posX="97.176" posY="-537.8745" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (21)" vehicle="471" alpha="255" interior="0" posX="99.4253" posY="-537.8213" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (22)" vehicle="471" alpha="255" interior="0" posX="101.6753" posY="-537.769" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (23)" vehicle="471" alpha="255" interior="0" posX="104.175" posY="-537.71" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (24)" vehicle="471" alpha="255" interior="0" posX="106.6545" posY="-537.9014" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (25)" vehicle="471" alpha="255" interior="0" posX="95.0205" posY="-542.582" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (26)" vehicle="471" alpha="255" interior="0" posX="97.2695" posY="-542.644" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (27)" vehicle="471" alpha="255" interior="0" posX="99.5188" posY="-542.7056" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (28)" vehicle="471" alpha="255" interior="0" posX="101.7676" posY="-542.7671" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (29)" vehicle="471" alpha="255" interior="0" posX="104.2666" posY="-542.8354" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (30)" vehicle="471" alpha="255" interior="0" posX="107.0156" posY="-542.9111" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (31)" vehicle="471" alpha="255" interior="0" posX="95.2368" posY="-547.125" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (Quadbike) (32)" vehicle="471" alpha="255" interior="0" posX="106.6311" posY="-546.6997" posZ="643.6594" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<finish id="finish (1)" posX="100.5796" posY="-518.0298" posZ="643.0775" rotX="0" rotY="0" rotZ="0"></finish>
+	<checkpoint id="checkpoint (1)" posX="101.2349" posY="-82.7585" posZ="628.98364" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<checkpoint id="checkpoint (2)" posX="-82.1775" posY="-357.9395" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<checkpoint id="checkpoint (3)" posX="20.2532" posY="-588.6987" posZ="685.14" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<boostfield id="boostfield (1)" posX="-49.9644" posY="-621.2344" posZ="666.51355" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (2)" posX="-49.7793" posY="-624.4746" posZ="666.6338" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (3)" posX="-49.9089" posY="-627.8384" posZ="666.54956" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (4)" posX="-49.9197" posY="-630.7192" posZ="666.5426" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (5)" posX="-49.8127" posY="-633.606" posZ="666.61206" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (6)" posX="-49.5879" posY="-636.604" posZ="666.7582" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (7)" posX="-49.8342" posY="-639.4829" posZ="666.59814" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (8)" posX="-49.9634" posY="-642.6538" posZ="666.51416" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (9)" posX="-49.856" posY="-645.4668" posZ="666.584" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (10)" posX="-49.7468" posY="-647.9014" posZ="666.6549" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (11)" posX="-72.2842" posY="-621.063" posZ="655.7738" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (12)" posX="-72.3066" posY="-623.4834" posZ="655.76587" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (13)" posX="-72.3311" posY="-626.1328" posZ="655.75745" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (14)" posX="-72.2468" posY="-628.7056" posZ="655.78674" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (15)" posX="-72.4841" posY="-631.0576" posZ="655.70386" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (16)" posX="-72.0747" posY="-633.5728" posZ="655.8469" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (17)" posX="-72.0991" posY="-636.2393" posZ="655.8384" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (18)" posX="-72.1257" posY="-639.1367" posZ="655.8291" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (19)" posX="-72.1516" posY="-641.9595" posZ="655.81995" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (20)" posX="-72.0701" posY="-644.957" posZ="655.8485" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (21)" posX="-71.9846" posY="-647.5811" posZ="655.8784" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (22)" posX="-93.2766" posY="-620.8691" posZ="651.34424" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (23)" posX="-93.2004" posY="-623.1792" posZ="651.20215" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (24)" posX="-93.3789" posY="-625.6523" posZ="651.1843" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (25)" posX="-93.2117" posY="-628.1094" posZ="651.20105" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (26)" posX="-93.3906" posY="-630.5854" posZ="651.1831" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (27)" posX="-93.4097" posY="-633.4106" posZ="651.18115" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (28)" posX="-93.344" posY="-636.312" posZ="651.18774" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (29)" posX="-93.5366" posY="-639.1357" posZ="651.16846" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (30)" posX="-93.5471" posY="-641.7549" posZ="651.1675" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (31)" posX="-93.6379" posY="-644.189" posZ="651.15845" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (32)" posX="-93.5554" posY="-646.6709" posZ="651.1666" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (33)" posX="-92.9351" posY="-649.0962" posZ="651.22864" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (34)" posX="-73.4346" posY="-226.6855" posZ="620.86975" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (35)" posX="-75.6575" posY="-226.6685" posZ="620.8594" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (36)" posX="-77.9255" posY="-226.814" posZ="620.94714" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (37)" posX="-80.2095" posY="-226.9604" posZ="621.03564" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (38)" posX="-82.7441" posY="-226.9961" posZ="621.0571" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (39)" posX="-85.1968" posY="-227.0874" posZ="621.1123" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (40)" posX="-87.4563" posY="-227.0703" posZ="621.1019" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (41)" posX="-89.51" posY="-226.9443" posZ="621.0259" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (42)" posX="-91.4353" posY="-226.9297" posZ="621.0171" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (43)" posX="-73.3733" posY="-215.856" posZ="616.6262" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (44)" posX="-75.3308" posY="-215.709" posZ="616.59656" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (45)" posX="-77.3003" posY="-215.79" posZ="616.6129" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (46)" posX="-79.1692" posY="-215.8159" posZ="616.61804" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (47)" posX="-81.1606" posY="-215.8979" posZ="616.63464" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (48)" posX="-83.2256" posY="-215.748" posZ="616.6045" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (49)" posX="-85.354" posY="-215.8853" posZ="616.6321" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (50)" posX="-87.5286" posY="-215.7334" posZ="616.60156" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (51)" posX="-89.7192" posY="-215.6968" posZ="616.59424" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<boostfield id="boostfield (52)" posX="-91.5972" posY="-215.7808" posZ="616.6111" rotX="0" rotY="0" rotZ="0"></boostfield>
+	<respawnpoint id="respawnpoint (1)" posX="101.4016" posY="-352.0752" posZ="628.51636" rotX="0" rotY="0" rotZ="0"></respawnpoint>
+	<respawnpoint id="respawnpoint (2)" posX="116.9563" posY="-243.0918" posZ="630.2317" rotX="0" rotY="0" rotZ="0"></respawnpoint>
+	<respawnpoint id="respawnpoint (3)" posX="-81.6782" posY="-51.2537" posZ="630.48364" rotX="0" rotY="0" rotZ="176"></respawnpoint>
+	<respawnpoint id="respawnpoint (4)" posX="-83.7048" posY="-353.0356" posZ="655.0696" rotX="0" rotY="0" rotZ="180"></respawnpoint>
+	<respawnpoint id="respawnpoint (5)" posX="-17.6191" posY="-377.1934" posZ="676.92114" rotX="0" rotY="0" rotZ="142"></respawnpoint>
+	<respawnpoint id="respawnpoint (6)" posX="37.7983" posY="-587.5381" posZ="687.72595" rotX="0" rotY="0" rotZ="94"></respawnpoint>
+	<respawnpoint id="respawnpoint (7)" posX="-160.8022" posY="-634.1812" posZ="651.8353" rotX="0" rotY="0" rotZ="272"></respawnpoint>
+	<respawnpoint id="respawnpoint (8)" posX="88.5034" posY="-630.6411" posZ="645.0228" rotX="0" rotY="0" rotZ="332"></respawnpoint>
+	<itemspawnpoint id="itemspawnpoint (1)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="89.4194" posY="-364.2925" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (2)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="92.2944" posY="-360.4976" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (3)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="95.895" posY="-365.5596" posZ="626.73364" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (4)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="98.5476" posY="-360.6226" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (5)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="102.1292" posY="-364.0635" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (6)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="105.2217" posY="-360.8047" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (7)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="108.3174" posY="-364.0747" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (8)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="112.0374" posY="-360.9863" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (9)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="114.4934" posY="-364.1367" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (11)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-1.72" posY="-31.0791" posZ="628.9817" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (12)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="3.5942" posY="-28.1863" posZ="628.9817" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (13)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="4.0293" posY="-33.4282" posZ="628.98364" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (14)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="3.5632" posY="-22.8328" posZ="628.98364" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (15)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-1.4395" posY="-25.98" posZ="628.98364" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (16)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-1.5593" posY="-20.8916" posZ="628.98364" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (17)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-68.2861" posY="-408.8198" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (18)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-61.447" posY="-416.3442" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (19)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-57.9014" posY="-425.0996" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (20)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-58.4011" posY="-433.6318" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (21)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-61.5667" posY="-442.0" posZ="653.8159" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (22)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-68.4292" posY="-448.7344" posZ="653.8159" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (23)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-76.6401" posY="-453.4795" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (24)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-86.1196" posY="-453.3237" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (25)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-95.0452" posY="-449.562" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (26)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-102.2241" posY="-443.6855" posZ="653.8159" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (27)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-106.1216" posY="-434.3315" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (28)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-106.1445" posY="-424.4341" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (29)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-102.2344" posY="-415.5547" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (30)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-77.2063" posY="-405.1416" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (31)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-87.1636" posY="-405.0571" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (32)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-96.1104" posY="-409.0898" posZ="653.8159" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (33)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-17.1628" posY="-524.6855" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (34)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-23.3489" posY="-521.6812" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (35)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-21.5068" posY="-528.5884" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (36)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-27.4539" posY="-525.8784" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (37)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-26.0962" posY="-533.752" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (38)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-32.1555" posY="-531.1279" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (39)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-30.8108" posY="-538.7471" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (40)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-36.9534" posY="-535.8311" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (41)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-36.1641" posY="-543.8853" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (42)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-41.782" posY="-540.6196" posZ="686.22595" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (43)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-292.9854" posY="-622.8828" posZ="643.0228" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (44)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-287.2402" posY="-626.9258" posZ="643.47876" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (45)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-293.0918" posY="-630.0684" posZ="643.0228" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (46)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-287.8643" posY="-634.959" posZ="643.41284" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (47)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-292.6118" posY="-638.4468" posZ="643.03625" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (48)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-287.9419" posY="-643.3047" posZ="643.40686" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (49)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-292.6079" posY="-646.0625" posZ="643.0365" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (50)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-287.8823" posY="-649.7002" posZ="643.4115" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<itemspawnpoint id="itemspawnpoint (51)" moveOnZAxis="0" moveOnYAxis="0" moveOnXAxis="0" posX="-287.2515" posY="-620.0596" posZ="643.4769" rotX="0" rotY="0" rotZ="0"></itemspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (3)" posX="66.5837" posY="-307.1484" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (4)" posX="66.4136" posY="-295.0459" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (5)" posX="66.1633" posY="-283.022" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (6)" posX="136.7537" posY="-304.9995" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (7)" posX="136.5674" posY="-291.9448" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (8)" posX="136.772" posY="-281.6235" posZ="626.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (9)" posX="-81.9692" posY="-162.8242" posZ="616.0228" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (10)" posX="-73.3762" posY="-429.0093" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (11)" posX="-82.1262" posY="-438.1519" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (12)" posX="-82.3967" posY="-420.2412" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (13)" posX="-91.0862" posY="-427.9263" posZ="653.8196" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (14)" posX="40.5007" posY="-457.5859" posZ="664.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (15)" posX="40.6438" posY="-466.52" posZ="664.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (16)" posX="40.6716" posY="-473.8213" posZ="664.67896" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (17)" posX="-157.2822" posY="-588.0869" posZ="651.71387" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (18)" posX="-176.8838" posY="-588.6113" posZ="651.71387" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (19)" posX="-195.9893" posY="-588.1963" posZ="651.71387" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (20)" posX="-44.813" posY="-647.354" posZ="669.9933" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<coinspawnpoint id="coinspawnpoint (21)" posX="-44.6946" posY="-625.2144" posZ="669.93506" rotX="0" rotY="0" rotZ="0"></coinspawnpoint>
+	<respawnArea id="respawnArea (1)" posX="-224.8022" posY="-570.1763" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (2)" posX="-227.4907" posY="-546.0605" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (3)" posX="-194.9087" posY="-570.6768" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (4)" posX="-200.8203" posY="-548.6646" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (5)" posX="-233.1069" posY="-522.2627" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (6)" posX="-210.2832" posY="-523.2266" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (7)" posX="-162.7207" posY="-569.9419" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (8)" posX="-178.0737" posY="-541.5742" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (9)" posX="-230.3286" posY="-500.0942" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (10)" posX="-260.7065" posY="-490.4204" posZ="626.7626" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (11)" posX="-314.7886" posY="-486.1753" posZ="627.0919" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (12)" posX="-338.001" posY="-493.5161" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (13)" posX="-354.5044" posY="-519.8115" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (14)" posX="-363.4966" posY="-551.5601" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (15)" posX="-338.9048" posY="-583.4409" posZ="626.8441" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (16)" posX="-343.9248" posY="-553.4888" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (17)" posX="-376.5215" posY="-499.7891" posZ="626.9663" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (18)" posX="-381.646" posY="-519.7681" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (19)" posX="-387.4473" posY="-548.6934" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (20)" posX="-278.5547" posY="-606.4849" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (21)" posX="-284.6011" posY="-556.8491" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (22)" posX="-282.5239" posY="-585.8159" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (23)" posX="-146.6455" posY="-565.1816" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (24)" posX="-126.3076" posY="-534.5044" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (25)" posX="-120.8472" posY="-560.9478" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (26)" posX="-100.5537" posY="-550.2051" posZ="627.08875" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (27)" posX="-69.5156" posY="-566.2905" posZ="627.03845" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (28)" posX="-1.3582" posY="-338.0713" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (29)" alpha="255" interior="0" posX="-18.6987" posY="-353.6318" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (30)" alpha="255" interior="0" posX="-40.7336" posY="-359.6948" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (31)" alpha="255" interior="0" posX="-65.1072" posY="-357.1606" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (32)" alpha="255" interior="0" posX="-101.0386" posY="-349.8999" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (33)" alpha="255" interior="0" posX="-109.9346" posY="-327.0376" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (34)" alpha="255" interior="0" posX="-109.9976" posY="-295.8472" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (35)" alpha="255" interior="0" posX="-110.7979" posY="-270.8481" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (36)" alpha="255" interior="0" posX="-110.335" posY="-251.103" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (37)" alpha="255" interior="0" posX="-91.7991" posY="-249.7866" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (38)" alpha="255" interior="0" posX="-70.834" posY="-251.5283" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (39)" alpha="255" interior="0" posX="-56.9199" posY="-255.3555" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (40)" alpha="255" interior="0" posX="-58.5923" posY="-277.793" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (41)" alpha="255" interior="0" posX="-49.4541" posY="-306.5518" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (42)" alpha="255" interior="0" posX="-33.9912" posY="-240.9478" posZ="600.04504" rotX="0" rotY="4" rotZ="306"></respawnArea>
+	<respawnArea id="respawnArea (43)" alpha="255" interior="0" posX="-50.7566" posY="-230.4126" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (44)" alpha="255" interior="0" posX="-51.7317" posY="-212.2378" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (45)" alpha="255" interior="0" posX="-44.3125" posY="-187.5742" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (46)" alpha="255" interior="0" posX="-39.7246" posY="-162.8325" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (47)" alpha="255" interior="0" posX="-38.562" posY="-130.1782" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (48)" alpha="255" interior="0" posX="-37.9597" posY="-103.8843" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (49)" alpha="255" interior="0" posX="-54.304" posY="-80.8079" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (50)" alpha="255" interior="0" posX="-75.6707" posY="-134.998" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (51)" alpha="255" interior="0" posX="-76.0686" posY="-155.5913" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (52)" alpha="255" interior="0" posX="-89.6511" posY="-155.5107" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (53)" alpha="255" interior="0" posX="-88.9763" posY="-134.6982" posZ="600.04504" rotX="0" rotY="3.999" rotZ="305.997"></respawnArea>
+	<respawnArea id="respawnArea (54)" alpha="255" interior="0" posX="-112.1968" posY="-227.4258" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (55)" alpha="255" interior="0" posX="-113.8813" posY="-205.9917" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (56)" alpha="255" interior="0" posX="-128.4844" posY="-186.5737" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (57)" alpha="255" interior="0" posX="-128.6001" posY="-163.3345" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (58)" alpha="255" interior="0" posX="-129.1558" posY="-143.4297" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (59)" alpha="255" interior="0" posX="-127.8555" posY="-121.5449" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (60)" alpha="255" interior="0" posX="-124.0415" posY="-101.3516" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+	<respawnArea id="respawnArea (61)" alpha="255" interior="0" posX="-112.978" posY="-81.271" posZ="600.04504" rotX="0" rotY="0" rotZ="0"></respawnArea>
+</map>

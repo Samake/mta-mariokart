@@ -1,0 +1,19 @@
+<meta>
+	<info name ="02_2_Mini2MapModeler" description="02_2_Mini2MapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/mini2.txd" type="client"/>
+	<file src="models/mini21.dff" type="client"/>
+	<file src="models/mini21.col" type="client"/>
+	<file src="models/mini22.dff" type="client"/>
+	<file src="models/mini22.col" type="client"/>
+	<file src="models/mini23.dff" type="client"/>
+	<file src="models/mini23.col" type="client"/>
+	<file src="models/mini24.dff" type="client"/>
+	<file src="models/mini24.col" type="client"/>
+</meta>

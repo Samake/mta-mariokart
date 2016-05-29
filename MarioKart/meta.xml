@@ -1,0 +1,244 @@
+<meta>
+	<info name="MarioKart" description="MarioKart" version="0.3.0" type="gamemode" author="Sam@ke"/>
+	<min_mta_version client="1.5" server="1.5"/>
+	<oop>true</oop>
+	
+	<!-- includes -->
+	<include resource="mapmanager" />
+	
+	<!-- client scripts  -->
+	<script src="client/settings/BindsC.lua" type="client" cache="false"/>
+
+	<script src="client/core/MainClassC.lua" type="client" cache="false"/>
+	<script src="client/core/LoginC.lua" type="client" cache="false"/>
+	<script src="client/core/XMLHandlerC.lua" type="client" cache="false"/>
+	<script src="client/core/ModelHandlerC.lua" type="client" cache="false"/>
+	<script src="client/core/MapLoaderC.lua" type="client" cache="false"/>
+	<script src="client/core/RenderClassC.lua" type="client" cache="false"/>
+	<script src="client/core/CameraHandlerC.lua" type="client" cache="false"/>
+	
+	<script src="client/manager/DataManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/WaterManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/SoundManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/EffectManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/ShaderManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/GUIManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/NotificationManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/ItemBlockManagerC.lua" type="client" cache="false"/>
+	<script src="client/manager/CoinManagerC.lua" type="client" cache="false"/>
+	
+	<script src="client/classes/AnimationsC.lua" type="client" cache="false"/>
+	<script src="client/classes/CustomCursorC.lua" type="client" cache="false"/>
+	<script src="client/classes/DebugClassC.lua" type="client" cache="false"/>
+	<script src="client/classes/GUIUserPanelC.lua" type="client" cache="false"/>
+	<script src="client/classes/GUITABStatisticsC.lua" type="client" cache="false"/>
+	<script src="client/classes/GUITABMapShopC.lua" type="client" cache="false"/>
+	<script src="client/classes/GUITABSettingsC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderBlurC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderWaterC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderBoostFieldsC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderAmbientLightC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderDoFC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderItemsC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderCoinsC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderSkyBoxC.lua" type="client" cache="false"/>
+	<script src="client/classes/ShaderSunC.lua" type="client" cache="false"/>
+	<script src="client/classes/NotificationC.lua" type="client" cache="false"/>
+	<script src="client/classes/ItemBlockC.lua" type="client" cache="false"/>
+	<script src="client/classes/CoinC.lua" type="client" cache="false"/>
+	
+	<script src="client/classes/dxLibs/dxWindowC.lua" type="client" cache="false"/>
+	<script src="client/classes/dxLibs/dxLabelC.lua" type="client" cache="false"/>
+	<script src="client/classes/dxLibs/dxToggleC.lua" type="client" cache="false"/>
+	<script src="client/classes/dxLibs/dxSliderC.lua" type="client" cache="false"/>
+	<script src="client/classes/dxLibs/dxGridListC.lua" type="client" cache="false"/>
+	<script src="client/classes/dxLibs/dxVoteC.lua" type="client" cache="false"/>
+	
+	<!-- server scripts  -->
+	<script src="server/settings/SettingsS.lua" type="server"/>
+
+	<script src="server/core/MainClassS.lua" type="server"/>
+	<script src="server/core/LoginS.lua" type="server"/>
+	<script src="server/core/MapLoaderS.lua" type="server"/>
+	
+	<script src="server/manager/VehicleManagerS.lua" type="server"/>
+	<script src="server/manager/MapManagerS.lua" type="server"/>
+	<script src="server/manager/PlayerManagerS.lua" type="server"/>
+	<script src="server/manager/DataManagerS.lua" type="server"/>
+	<script src="server/manager/WaterManagerS.lua" type="server"/>
+	<script src="server/manager/ItemBlockManagerS.lua" type="server"/>
+	<script src="server/manager/CoinManagerS.lua" type="server"/>
+	
+	<script src="server/handler/MySQLHandlerS.lua" type="server"/>
+	<script src="server/handler/GameStateHandlerS.lua" type="server"/>
+
+	<script src="server/classes/DebugClassS.lua" type="server"/>
+	<script src="server/classes/PlayerS.lua" type="server"/>
+	<script src="server/classes/VehicleS.lua" type="server"/>
+	<script src="server/classes/MapS.lua" type="server"/>
+	<script src="server/classes/ItemBlockS.lua" type="server"/>
+	<script src="server/classes/CoinS.lua" type="server"/>
+	
+	<!-- shared scripts  -->
+	<script src="shared/classlib.lua" type="shared"/>
+	<script src="shared/utils.lua" type="shared"/>
+	
+	<!-- HTML -->
+	<file src="cef/login.html" />
+
+	<!-- shaders  -->
+	<file src="res/shaders/mta-helper.fx" type="client" cache="false"/>
+	<file src="res/shaders/water.fx" type="client" cache="false"/>
+	<file src="res/shaders/boostfield.fx" type="client" cache="false"/>
+	<file src="res/shaders/ambientLight.fx" type="client" cache="false"/>
+	<file src="res/shaders/blur.fx" type="client" cache="false"/>
+	<file src="res/shaders/dof.fx" type="client" cache="false"/>
+	<file src="res/shaders/item.fx" type="client"/>
+	<file src="res/shaders/coin.fx" type="client"/>
+	<file src="res/shaders/farPlane.fx" type="client" cache="false"/>
+	<file src="res/shaders/skybox.fx" type="client"/>
+	<file src="res/shaders/bw.fx" type="client"/>
+	<file src="res/shaders/sun.fx" type="client"/>
+	<file src="res/shaders/godRayBase.fx" type="client"/>
+	<file src="res/shaders/lensflares.fx" type="client"/>
+	<file src="res/shaders/pictureQuality.fx" type="client" cache="false"/>
+	
+	<!-- fonts -->
+	<file src="res/fonts/SuperMario.ttf" type="client"/>
+
+	<!-- textures  -->
+	<file src="res/textures/dxLibs/closeC.png" type="client"/>
+	<file src="res/textures/dxLibs/closeH.png" type="client"/>
+	<file src="res/textures/dxLibs/closeN.png" type="client"/>
+	<file src="res/textures/dxLibs/toggleON.png" type="client"/>
+	<file src="res/textures/dxLibs/toggleOFF.png" type="client"/>
+	<file src="res/textures/dxLibs/sliderToggle.png" type="client"/>
+	
+	<file src="res/textures/misc/unknown.png" type="client"/>
+	<file src="res/textures/misc/starN.png" type="client"/>
+	<file src="res/textures/misc/starA.png" type="client"/>
+	<file src="res/textures/misc/starS.png" type="client"/>
+	<file src="res/textures/misc/cursorHand.png" type="client"/>
+	
+	<file src="res/textures/maps/babyluigiMap.png" type="client"/>
+	<file src="res/textures/maps/babyLuigiName.png" type="client"/>
+	<file src="res/textures/maps/daisyMap.png" type="client"/>
+	<file src="res/textures/maps/daisyName.png" type="client"/>
+	<file src="res/textures/maps/desertMap.png" type="client"/>
+	<file src="res/textures/maps/desertName.png" type="client"/>
+	<file src="res/textures/maps/diddyMap.png" type="client"/>
+	<file src="res/textures/maps/diddyName.png" type="client"/>
+	<file src="res/textures/maps/donkeyMap.png" type="client"/>
+	<file src="res/textures/maps/donkeyName.png" type="client"/>
+	<file src="res/textures/maps/koopaMap.png" type="client"/>
+	<file src="res/textures/maps/koopaName.png" type="client"/>
+	<file src="res/textures/maps/luigiMap.png" type="client"/>
+	<file src="res/textures/maps/luigiName.png" type="client"/>
+	<file src="res/textures/maps/marioMap.png" type="client"/>
+	<file src="res/textures/maps/marioName.png" type="client"/>
+	<file src="res/textures/maps/mini1Map.png" type="client"/>
+	<file src="res/textures/maps/mini1Name.png" type="client"/>
+	<file src="res/textures/maps/mini2Map.png" type="client"/>
+	<file src="res/textures/maps/mini2Name.png" type="client"/>
+	<file src="res/textures/maps/mini3Map.png" type="client"/>
+	<file src="res/textures/maps/mini3Name.png" type="client"/>
+	<file src="res/textures/maps/mini5Map.png" type="client"/>
+	<file src="res/textures/maps/mini5Name.png" type="client"/>
+	<file src="res/textures/maps/mini7Map.png" type="client"/>
+	<file src="res/textures/maps/mini7Name.png" type="client"/>
+	<file src="res/textures/maps/mini8Map.png" type="client"/>
+	<file src="res/textures/maps/mini8Name.png" type="client"/>
+	<file src="res/textures/maps/nokonokoMap.png" type="client"/>
+	<file src="res/textures/maps/nokonokoName.png" type="client"/>
+	<file src="res/textures/maps/patapataMap.png" type="client"/>
+	<file src="res/textures/maps/patapataName.png" type="client"/>
+	<file src="res/textures/maps/peachMap.png" type="client"/>
+	<file src="res/textures/maps/peachName.png" type="client"/>
+	<file src="res/textures/maps/rainbowMap.png" type="client"/>
+	<file src="res/textures/maps/rainbowName.png" type="client"/>
+	<file src="res/textures/maps/snowMap.png" type="client"/>
+	<file src="res/textures/maps/snowName.png" type="client"/>
+	<file src="res/textures/maps/waluigiMap.png" type="client"/>
+	<file src="res/textures/maps/waluigiName.png" type="client"/>
+	<file src="res/textures/maps/warioMap.png" type="client"/>
+	<file src="res/textures/maps/warioName.png" type="client"/>
+	<file src="res/textures/maps/yoshiMap.png" type="client"/>
+	<file src="res/textures/maps/yoshiName.png" type="client"/>
+	
+	<file src="res/textures/icons/errorIcon.png" type="client"/>
+	<file src="res/textures/icons/warningIcon.png" type="client"/>
+	<file src="res/textures/icons/infoIcon.png" type="client"/>
+	<file src="res/textures/icons/readyIcon.png" type="client"/>
+	<file src="res/textures/icons/achievementIcon.png" type="client"/>
+	<file src="res/textures/icons/statistics_icon.png" type="client"/>
+	<file src="res/textures/icons/settings_icon.png" type="client"/>
+	<file src="res/textures/icons/mapshop_icon.png" type="client"/>
+	
+	<file src="res/textures/env/waterTexture.tga" type="client"/>
+	<file src="res/textures/env/waterNormal.png" type="client"/>
+	<file src="res/textures/env/skyboxDay.tga" type="client"/>
+	<file src="res/textures/env/skyboxNight.tga" type="client"/>
+	<file src="res/textures/env/lensflare_dirt.png" type="client"/>
+	<file src="res/textures/env/lensflare_chroma.png" type="client"/>
+	
+	<!-- models  -->
+	<file src="res/models/skybox.txd" type="client"/>
+	<file src="res/models/skybox.dff" type="client"/>
+	<file src="res/models/item.txd" type="client"/>
+	<file src="res/models/item.dff" type="client"/>
+	<file src="res/models/item.col" type="client"/>
+	<file src="res/models/itemInner.dff" type="client"/>
+	<file src="res/models/itemBad.dff" type="client"/>
+	<file src="res/models/coin.dff" type="client"/>
+	<file src="res/models/coin.txd" type="client"/>
+	
+	<!-- cars -->
+	<file src="res/models/karts/kart.txd" type="client"/>
+	<file src="res/models/karts/kart.dff" type="client"/>
+	
+	<!-- skins -->
+	<file src="res/models/skins/Yoshi.txd" type="client"/>
+	<file src="res/models/skins/Yoshi.dff" type="client"/>
+	<file src="res/models/skins/Waluigi.txd" type="client"/>
+	<file src="res/models/skins/Waluigi.dff" type="client"/>
+	<file src="res/models/skins/Kirby.txd" type="client"/>
+	<file src="res/models/skins/Kirby.dff" type="client"/>
+	<file src="res/models/skins/Peach.txd" type="client"/>
+	<file src="res/models/skins/Peach.dff" type="client"/>
+	<file src="res/models/skins/Luigi.txd" type="client"/>
+	<file src="res/models/skins/Luigi.dff" type="client"/>
+	<file src="res/models/skins/Mario.txd" type="client"/>
+	<file src="res/models/skins/Mario.dff" type="client"/>
+	<file src="res/models/skins/Wario.txd" type="client"/>
+	<file src="res/models/skins/Wario.dff" type="client"/>
+	<file src="res/models/skins/luigiBaby.txd" type="client"/>
+	<file src="res/models/skins/luigiBaby.dff" type="client"/>
+	<file src="res/models/skins/donkeyKong.txd" type="client"/>
+	<file src="res/models/skins/donkeyKong.dff" type="client"/>
+
+	<!-- sounds  -->
+	<file src="res/sounds/shimmer.ogg" type="client"/>
+	<file src="res/sounds/coinPick.ogg" type="client"/>
+
+	<!-- settings  -->
+
+	<!-- permissions  -->
+	<aclrequest>
+		<right name="general.ModifyOtherObjects" access="true"/>
+        <right name="function.startResource" access="true"/>
+        <right name="function.stopResource" access="true"/>
+        <right name="function.restartResource" access="true"/>
+        <right name="function.createResource" access="true"/>
+        <right name="function.copyResource" access="true"/>
+        <right name="function.renameResource" access="true"/>
+        <right name="function.deleteResource" access="true"/>
+		<right name="function.refreshResources" access="true"/>
+        <right name="function.addResourceMap" access="true"/>
+        <right name="function.addResourceConfig" access="true"/>
+        <right name="function.removeResourceFile" access="true"/>
+        <right name="function.setResourceDefaultSetting" access="true"/>
+        <right name="function.removeResourceDefaultSetting" access="true"/>
+        <right name="function.xmlLoadFile" access="true"/>
+		<right name="function.executeCommandHandler" access="true"/>
+    </aclrequest>
+</meta>

@@ -1,0 +1,33 @@
+<meta>
+	<info name ="01_3_WarioMapModeler" description="01_3_WarioMapModeler" version="v1" type="script" author="Sam@ke"/>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+		
+	<!-- client scripts  -->
+	<script src="client/Modeler.lua" type="client" cache="false"/>
+	
+	<!-- objects  -->
+	<file src="models/wario.txd" type="client"/>
+	<file src="models/wario1.dff" type="client"/>
+	<file src="models/wario1.col" type="client"/>
+	<file src="models/wario2.dff" type="client"/>
+	<file src="models/wario2.col" type="client"/>
+	<file src="models/wario3.dff" type="client"/>
+	<file src="models/wario3.col" type="client"/>
+	<file src="models/wario4.dff" type="client"/>
+	<file src="models/wario4.col" type="client"/>
+	<file src="models/wario5.dff" type="client"/>
+	<file src="models/wario5.col" type="client"/>
+	<file src="models/wario6.dff" type="client"/>
+	<file src="models/wario6.col" type="client"/>
+	<file src="models/wario7.dff" type="client"/>
+	<file src="models/wario7.col" type="client"/>
+	<file src="models/wario8.dff" type="client"/>
+	<file src="models/wario8.col" type="client"/>
+	<file src="models/wario9.dff" type="client"/>
+	<file src="models/wario9.col" type="client"/>
+	<file src="models/wario10.dff" type="client"/>
+	<file src="models/wario10.col" type="client"/>
+	<file src="models/wario11.dff" type="client"/>
+	<file src="models/wario11.col" type="client"/>
+</meta>

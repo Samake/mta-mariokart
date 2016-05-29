@@ -1,0 +1,55 @@
+<meta>
+    <info gamemodes="MarioKart" type="map" name="[Race]Waluigi_GC" author="Samake" version="v2" description="Waluigi´s Course GC"></info>
+    <map src="Waluigi_GC.map" dimension="0"></map>
+    
+	<settings>
+        <setting name="#maxplayers" value="[ 32 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 1 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="16:0"></setting>
+    </settings>	
+	    
+    <!-- objects -->
+    <file src="models/waluigi.txd" type="client" cache="false" />
+    <file src="models/waluigi1.dff" type="client" cache="false" />
+    <file src="models/waluigi1.col" type="client" cache="false" />
+    <file src="models/waluigi2.dff" type="client" cache="false" />
+    <file src="models/waluigi2.col" type="client" cache="false" />
+    <file src="models/waluigi3.dff" type="client" cache="false" />
+    <file src="models/waluigi3.col" type="client" cache="false" />
+    <file src="models/waluigi4.dff" type="client" cache="false" />
+    <file src="models/waluigi4.col" type="client" cache="false" />
+    <file src="models/waluigi5.dff" type="client" cache="false" />
+    <file src="models/waluigi5.col" type="client" cache="false" />
+    <file src="models/waluigi6.dff" type="client" cache="false" />
+    <file src="models/waluigi6.col" type="client" cache="false" />
+    <file src="models/waluigi7.dff" type="client" cache="false" />
+    <file src="models/waluigi7.col" type="client" cache="false" />
+    <file src="models/waluigi8.dff" type="client" cache="false" />
+    <file src="models/waluigi8.col" type="client" cache="false" />
+    <file src="models/waluigi9.dff" type="client" cache="false" />
+    <file src="models/waluigi9.col" type="client" cache="false" />
+    <file src="models/waluigi10.dff" type="client" cache="false" />
+    <file src="models/waluigi10.col" type="client" cache="false" />
+    <file src="models/waluigi11.dff" type="client" cache="false" />
+    <file src="models/waluigi11.col" type="client" cache="false" />
+	<file src="models/waluigi12.dff" type="client" cache="false" />
+    <file src="models/waluigi12.col" type="client" cache="false" />
+	<file src="models/waluigi13.dff" type="client" cache="false" />
+    <file src="models/waluigi13.col" type="client" cache="false" />
+	<file src="models/waluigi14.dff" type="client" cache="false" />
+    <file src="models/waluigi14.col" type="client" cache="false" />
+    
+    <!-- sound -->
+    <file src="sounds/waluigi.ogg" type="client" cache="false" />
+	
+	<!-- scripts -->
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	<script src="WaluigiC.lua" type="client" validate="false"></script>
+</meta>
